@@ -37,13 +37,13 @@ organizations:
     url: http://acpa-usal.com/
 education:
   courses:
-    - course: PhD. Student in Political Science
+    - course: PhD in Political Science (Currently)
       institution: University of Salamanca
       year: ""
-    - course: "M.A.: Political Science"
+    - course: MA in Political Science
       institution: University of Salamanca
       year: 2020
-    - course: "B.A.: Political Science and Public Administration"
+    - course: BA in Political Science & Public Administration
       institution: University of Salamanca
       year: 2019
 email: pablogglz@usal.es

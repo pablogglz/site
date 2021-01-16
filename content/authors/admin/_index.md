@@ -45,5 +45,3 @@ superuser: true
 highlight_name: false
 ---
 Pablo González-González is a doctoral student in Political Science at the University of Salamanca, member of the Democracy Research Unit (DRU). He holds a Bachelor's and a Master's degree in Political Science and his research interests covers populism, social and traditional media, and political behavior and participation.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

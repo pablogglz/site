@@ -19,7 +19,7 @@ social:
     link: https://twitter.com/pbglz
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.es/citations?user=6RcDBuAAAAAJ&hl=es&authuser=2
+    link: https://scholar.google.es/citations?user=6RcDBuAAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/pablogglz

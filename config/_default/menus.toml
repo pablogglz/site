@@ -29,11 +29,6 @@
 #  weight = 50
 
 [[main]]
-  name = "Qualifications"
-  url = "#qualifications"
-  weight = 60
-
-[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60

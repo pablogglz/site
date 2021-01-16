@@ -8,7 +8,7 @@ abstract: |-
   Google Scholar: https://scholar.google.es/citations?user=6RcDBuAAAAAJ
   ResearchGate: https://www.researchgate.net/profile/Pablo_Gonzalez-Gonzalez
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart

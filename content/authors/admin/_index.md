@@ -2,8 +2,7 @@
 title: Pablo González-González
 role: PhD. Student in Political Science
 avatar_filename: avatar.jpg
-bio: Populism, social and traditional media, and political behavior and
-  participation.
+bio: ""
 interests:
   - Social media
   - Political Behavior

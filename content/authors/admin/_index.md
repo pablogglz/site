@@ -4,10 +4,9 @@ role: PhD. Student in Political Science
 avatar_filename: null
 bio: ""
 interests:
-  - Social media
+  - Social Media
   - Political Behavior
   - Populism
-  - Extremism
   - Radicalism
 social:
   - icon: envelope

@@ -27,7 +27,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/pabloggonzalez/
 organizations:
-  - name: Universidad de Salamanca
+  - name: University of Salamanca
     url: http://acpa-usal.com/
 education:
   courses:

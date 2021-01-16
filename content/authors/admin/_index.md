@@ -1,7 +1,7 @@
 ---
 title: Pablo González-González
 role: PhD. Student in Political Science
-avatar_filename: avatar.jpg
+avatar_filename: null
 bio: ""
 interests:
   - Social media
@@ -50,4 +50,6 @@ email: pablogglz@usal.es
 superuser: true
 highlight_name: false
 ---
-Hello. I am Pablo González-González, a doctoral student in Political Science at the University of Salamanca, and member of the Democracy Research Unit (DRU). I hold a Bachelor's and a Master's degree in Political Science, and my research interests covers populism, social and traditional media, and political behavior and participation.
+Hello, and welcome. 
+
+I am Pablo González-González, a doctoral student in Political Science at the University of Salamanca, and member of the Democracy Research Unit (DRU). I hold a Bachelor's and a Master's degree in Political Science, and my research interests covers populism, social and traditional media, and political behavior and participation.

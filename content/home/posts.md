@@ -1,8 +1,8 @@
 ---
-widget: pages
+widget: featured
 widget_id: posts
 headless: true
-weight: 10
+weight: 90
 active: true
 design:
   columns: "2"

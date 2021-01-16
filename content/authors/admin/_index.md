@@ -17,15 +17,17 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/pbglz
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.es/citations?user=6RcDBuAAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/pablogglz
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/pabloggonzalez/
+  - display:
+      header: false
+    link: https://orcid.org/0000-0003-2267-3911
+    icon_pack: ai
+    icon: orcid
 organizations:
   - name: University of Salamanca
     url: http://acpa-usal.com/

@@ -52,4 +52,4 @@ highlight_name: false
 ---
 Hello, and welcome. 
 
-I am Pablo González-González, a doctoral student in Political Science at the University of Salamanca, and member of the Democracy Research Unit (DRU). I hold a Bachelor's and a Master's degree in Political Science, and my research interests covers populism, social and traditional media, and political behavior and participation.
+I am Pablo González-González, a doctoral student in Political Science at the University of Salamanca and a member of the Democracy Research Unit (DRU). I hold a Bachelor’s and a Master’s degree in Political Science, and my research interests cover populism, social and traditional media, and political behavior and participation.

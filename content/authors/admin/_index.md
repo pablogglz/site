@@ -1,7 +1,7 @@
 ---
 title: Pablo González-González
 role: PhD. Student in Political Science
-avatar_filename: 111-01-linkedin.png
+avatar_filename: avatar.jpg
 bio: Populism, social and traditional media, and political behavior and
   participation.
 interests:

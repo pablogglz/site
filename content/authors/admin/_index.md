@@ -27,8 +27,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/pabloggonzalez/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universidad de Salamanca
+    url: http://acpa-usal.com/
 education:
   courses:
     - course: PhD. Student in Political Science
@@ -40,7 +40,7 @@ education:
     - course: "B.A.: Political Science and Public Administration"
       institution: University of Salamanca
       year: 2019
-email: ""
+email: pablogglz@usal.es
 superuser: true
 highlight_name: false
 ---

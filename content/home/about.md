@@ -1,21 +1,10 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: bio
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+**Pablo González-González** is a doctoral student in Political Science at the **University of Salamanca**, member of the **Democracy Research Unit (DRU)**. He holds a Bachelor's and a Master's degree in Political Science and his research interests covers populism, social and traditional media, and political behavior and participation.

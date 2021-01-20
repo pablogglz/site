@@ -88,7 +88,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "pablogglz@usal.es"
+# email = ""
 # phone = ""
 
 # Address
@@ -117,7 +117,7 @@ email = "pablogglz@usal.es"
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-# twitter = "pbglz"
+# twitter = ""
 
 ############################
 ## Regional Settings

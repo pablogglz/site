@@ -51,4 +51,4 @@ highlight_name: false
 ---
 #### Hello!
 
-I am **Pablo González-González**, a doctoral student in **Political Science** at the University of Salamanca and member of the [Democracy Research Unit (DRU)](https://www.researchgate.net/lab/Democracy-Research-Unit-DRU-Homero-Gil-de-Zuniga). I hold a Bachelor’s and a Master’s degree in Political Science, revolve around quantitative methods applied to political communication, social media, public opinion, and political behavior.
+I am **Pablo González-González**, a doctoral student in **Political Science** at the University of Salamanca and member of the [Democracy Research Unit (DRU)](https://www.researchgate.net/lab/Democracy-Research-Unit-DRU-Homero-Gil-de-Zuniga). I hold a Bachelor’s and a Master’s degree in Political Science, and my research interests revolve around quantitative methods applied to political communication, social media, public opinion, and political behavior.

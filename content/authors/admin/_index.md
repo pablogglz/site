@@ -25,7 +25,7 @@ social:
     icon: orcid
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.es/citations?user=6RcDBuAAAAAJ
+    link: https://scholar.google.com/citations?user=6RcDBuAAAAAJ
   - display:
       header: false
     link: https://www.researchgate.net/profile/Pablo_Gonzalez-Gonzalez

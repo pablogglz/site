@@ -36,7 +36,7 @@ organizations:
     url: http://acpa-usal.com/
 education:
   courses:
-    - course: PhD student in Political Science, since 2020
+    - course: PhD in Political Science, since 2020
       institution: University of Salamanca
       year: ""
     - course: MA in Political Science

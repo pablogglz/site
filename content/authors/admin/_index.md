@@ -6,6 +6,8 @@ bio: ""
 interests:
   - Political Communication
   - Social Media
+  - Extremism
+  - Polarization
   - Political Behavior
   - Public Opinion
 social:

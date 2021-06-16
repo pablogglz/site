@@ -5,11 +5,11 @@ avatar_filename: null
 bio: ""
 interests:
   - Political Communication
+  - Political Behavior
+  - Public Opinion
   - Social Media
   - Extremism
   - Polarization
-  - Political Behavior
-  - Public Opinion
 social:
   - icon: envelope
     icon_pack: fas

@@ -8,8 +8,8 @@ interests:
   - Political Behavior
   - Public Opinion
   - Social Media
-  - Extremism
   - Polarization
+  - Extremism
 social:
   - icon: envelope
     icon_pack: fas

@@ -48,7 +48,7 @@ local_business_type = ""
 # org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "The personal website of Pablo González-González"
+# description = "The personal website of Pablo González-González"
 
 ############################
 ## Site Features

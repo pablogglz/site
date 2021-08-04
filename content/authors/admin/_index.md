@@ -52,4 +52,4 @@ highlight_name: false
 ---
 #### Hello!
 
-I am **Pablo González-González**, a doctoral student in **Political Science** at University of Salamanca and member of the [Democracy Research Unit (DRU)](https://acpa-usal.com/investigacion/democracy-research-unit-dru/team-dru/). I hold a Bachelor’s and a Master’s degree in Political Science, and my research interests revolve around quantitative methods applied to political communication, social media, public opinion, and political behavior.
+I am **Pablo González-González**, a doctoral student in **Political Science** at the University of Salamanca and a member of the [Democracy Research Unit (DRU)](https://acpa-usal.com/investigacion/democracy-research-unit-dru/team-dru/). I hold a Bachelor’s and a Master’s degree in Political Science, and my research interests revolve around quantitative methods applied to political communication, social media, public opinion, and political behavior.

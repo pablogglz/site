@@ -10,15 +10,6 @@ interests:
   - Polarization
   - Extremism
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/pablogglz
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/pbglz
   - display:
       header: false
     link: https://orcid.org/0000-0003-2267-3911
@@ -32,6 +23,12 @@ social:
     link: https://www.researchgate.net/profile/Pablo_Gonzalez-Gonzalez
     icon_pack: ai
     icon: researchgate
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/pbglz
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
 organizations:
   - name: University of Salamanca
     url: http://acpa-usal.com/

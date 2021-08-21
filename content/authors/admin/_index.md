@@ -10,11 +10,6 @@ interests:
   - Polarization
   - Extremism
 social:
-  - display:
-      header: false
-    link: https://orcid.org/0000-0003-2267-3911
-    icon_pack: ai
-    icon: orcid
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=6RcDBuAAAAAJ
@@ -23,6 +18,11 @@ social:
     link: https://www.researchgate.net/profile/Pablo_Gonzalez-Gonzalez
     icon_pack: ai
     icon: researchgate
+  - display:
+      header: false
+    link: https://orcid.org/0000-0003-2267-3911
+    icon_pack: ai
+    icon: orcid
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/pbglz
